@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-React-31bAdB?style=for-the-badge&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-ReactNative-1572b6?style=for-the-badge&logo=React"/>&nbsp
-  <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
