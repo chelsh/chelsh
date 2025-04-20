@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=70)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/UKth)](https://github.com/UKth)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchelsh&count_bg=%23666666&title_bg=%23000000&icon=tinder.svg&icon_color=%23FF2D2D&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <h3 align="center">📘 Technology Stack 📘</h3>
 
 <p align="center">
